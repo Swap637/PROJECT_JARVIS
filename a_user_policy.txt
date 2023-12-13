@@ -1,0 +1,3 @@
+UserPolisyId	UserId	UserIdLastSet	PasswordLastSet	             LoginAttempt	_OldId   	_OldOrgId
+1	             1    	NULL	         2023-11-21 18:08:50.000      	0	          NULL	      NULL
+2	             2	    NULL	         2023-12-11 12:34:49.000	    0	          NULL	      NULL
