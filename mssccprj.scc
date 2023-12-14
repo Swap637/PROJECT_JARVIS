@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[Trust.Bank.Publish.sln]
+SCC_Aux_Path = "\\appsrv\TSSIPL_VSS_DB\TSSIPL_VSS_2018"
+SCC_Project_Name = "$/Trust.Bank.Publish/TrustBank.URBAN.SingleDB", CAAAAAAA
+
+[TrustBankDbObjects.SingleDB.sln]
+SCC_Aux_Path = "\\appsrv\TSSIPL_VSS_DB\TSSIPL_VSS_2018"
+SCC_Project_Name = "$/Trust.Bank.Publish/TrustBank.URBAN.SingleDB", CAAAAAAA
